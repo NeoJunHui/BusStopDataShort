@@ -1,4 +1,5 @@
- "value": [
+{
+"value": [
         {
             "BusStopCode": "01012",
             "RoadName": "Victoria St",
@@ -33,3 +34,5 @@
             "Description": "Bugis Cube",
             "Latitude": 1.29820784139683,
             "Longitude": 103.85549139837407
+        }
+ }
